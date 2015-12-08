@@ -14,6 +14,7 @@ The purpose of this repo is limited to gathering information for human consumpti
   - surveys
   - use cases
   - identification of gaps in knowledge, tooling, etc
+
 ### 4) Known adoption/demonstration of the above products
 
-The github repo is one of the simplest approaches that could possibly work for this information-gathering purpose and allows for drive-by contributions by anyone, user-driven notification settings, @mentions etc, issues etc. It avoids heavyweight and boring database management for what is a simple problem. The content of this repo is primarily meant for human consumption by members of the groups doing the work. The organization "identifiers" is deliberately generic in order to foster broad participation. This may lead to summaries of the various contributions of content (eg. papers, blogs, year in review); this can be explored but is not required in order for this info to be useful.
+The github repo is one of the simplest approaches that could possibly work for this information-gathering purpose and allows for drive-by contributions by anyone, user-driven notification settings, @mentions etc, issues etc. It avoids heavyweight and boring database management for what is a simple problem. The content of this repo is primarily meant for human consumption by members of the groups doing the work. The organization "identifiers" is deliberately generic in order to foster broad participation. This may lead to summaries of the various contributions of content (eg. papers, blogs, year in review); this can be explored but is not required in order for this content to be useful.
