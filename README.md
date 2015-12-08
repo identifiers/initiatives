@@ -12,11 +12,14 @@ The purpose of this repo is limited to gathering information for consumption by 
   - meetings/hackathons
   - surveys
   - use cases
-  - identification of gaps in knowledge, tooling, etc
 
 #### 4) Known adoption/demonstration of the above products
-#### 5) Important updates about products of past identifier efforts, lessons learned etc. Eg. PURL
-#### 6) Background reading on past efforts (There is a long history of attempts to improve identifiers, some successful, and some less so)
+#### 6) Past identifier-based efforts
+  - background reading (specifically what worked, what didn't, why)
+  - updates to existing tooling (eg. PURL looks like it isn't long for this world)
+
+#### 7) Wish lists / help wanted / gaps analysis
+  - Use issue tracker to ask your fellow id geeks a question about an identifiers-based problem you're trying to solve
 
 If a single source of the above information already exists somewhere, that would be welcome news indeed! If you know of such an effort, click the "edit" button on this file to let us know of its whereabouts; we can then retire this repo. Otherwise, let's just get it done.
 
