@@ -1,6 +1,6 @@
 # Identifier Initiatives
 
-In the life sciences there are many dozens of thought leaders actively working to improve the identifiers landscape; however, things are moving fast it is difficult to stay abreast of the overlaps/complementarity. Not everyone can attend every meeting or every working group, nor should they need to. Let's face it; if you're an identifier geek, you probably became one out of sheer frustration with not being able to do something a lot more interesting -- like data integration, not because you love identifiers. 
+Let's face it; if you're an identifier geek, you probably became one out of sheer frustration with not being able to do something a lot more interesting -- like data integration, not because you love identifiers. In the life sciences there are many dozens of thought leaders actively working to improve the identifiers landscape; however, things are moving fast it is difficult to stay abreast of the overlaps/complementarity. Not everyone can attend every meeting or every working group, nor should they need to. 
 
 Although improved dissemination of our collective products doesn't ensure harmony or eliminate duplicated efforts, it is a step in the right direction. All reasonable contributions of new content are welcome, provided it is done by someone who has at least skimmed the existing content.
 
@@ -36,7 +36,7 @@ The "identifiers/initiatives" github repo is one of the simplest approaches that
   - issue tracker
   - more transparent attribution for individual contributors of content
 
-Using GitHub for even something so humble avoids heavyweight and boring database management. The content of this repo is primarily meant for human consumption by technical members of the groups doing the work. The organization "githumb.com/identifiers" is deliberately generic in order to foster broad participation without getting coopted for a single cause. If we find that we gather so much information that it overwhelms even the identifier devotees, we could later explore some ways of structuring it more meaningfully or in a way that is is more easily digested (eg. using [YAML->GitHub pages as recently done for OBO foundry website](https://douroucouli.wordpress.com/2015/08/27/a-lightweight-ontology-registry-system/)). 
+The organization "github.com/identifiers" is deliberately generic in order to foster broad participation without getting coopted for a single cause. If we find that we gather so much information that it overwhelms even the identifier devotees, we could later explore some ways of structuring it more meaningfully or in a way that is is more easily consumed (eg. using [YAML->GitHub pages as recently done for OBO foundry website](https://douroucouli.wordpress.com/2015/08/27/a-lightweight-ontology-registry-system/)). For now, let's take an agile approach and see how it develops with the minimum effort we can muster.
 
 To serve the above purpose, content here should remain high level, with pointers elsewhere for details.
 
