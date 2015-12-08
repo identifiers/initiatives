@@ -2,7 +2,7 @@
 
 Let's face it; if you're an identifier geek, you probably became one out of sheer frustration with not being able to do something a lot more interesting -- like data integration, not because you love identifiers. In the life sciences there are many dozens of thought leaders actively working to improve the identifiers landscape; however, things are moving fast it is difficult to stay abreast of the overlaps/complementarity. Not everyone can attend every meeting or every working group, nor should they need to. 
 
-Although improved dissemination of our collective products doesn't ensure harmony or eliminate duplicated efforts, it is a step in the right direction. All reasonable contributions of new content are welcome, provided it is done by someone who has at least skimmed the existing content.
+Although improved dissemination of our collective products doesn't ensure harmony or eliminate duplicated efforts, it is a step in the right direction. All reasonable contributions of new content are welcome here, provided it is done by someone who has at least skimmed the existing content.
 
 The purpose of this repo is limited to gathering information for consumption by a technical audience. That is admittedly narrow, but existing organizations doing the actual work / work products are the ones better suited to hosting it. 
 
