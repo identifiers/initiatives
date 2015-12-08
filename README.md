@@ -2,9 +2,11 @@
 
 In the life sciences there are many dozens of thought leaders actively working to improve the identifiers landscape; however, things are moving fast it is difficult to stay abreast of the overlaps/complementarity. Not everyone can attend every meeting or every working group, nor should they need to. Let's face it; if you're an identifier geek, you probably became one out of sheer frustration with not being able to do something a lot more interesting -- like data integration, not because you love identifiers. 
 
-We can't stop duplicating effort that we don't know about. Moreover, although improved dissemination of our collective products doesn't ensure harmony, it is a step closer toward it. All reasonable contributions of new content are welcome, provided it is done by someone who has at least skimmed the existing content.
+Although improved dissemination of our collective products doesn't ensure harmony or eliminate duplicated efforts, it is a step in the right direction. All reasonable contributions of new content are welcome, provided it is done by someone who has at least skimmed the existing content.
 
-The purpose of this repo is limited to gathering information for consumption by a technical audience. That is admittedly narrow, but existing organizations doing the actual work / work products are those better suited to hosting it. Specifically, this repo aims to house the following information:
+The purpose of this repo is limited to gathering information for consumption by a technical audience. That is admittedly narrow, but existing organizations doing the actual work / work products are the ones better suited to hosting it. 
+
+This repo aims to house the following information:
 
 #### 1) What are the (active) working groups trying to improve the web-based identifier landscape
 #### 2) Which individuals are participating in these groups
@@ -24,7 +26,7 @@ The purpose of this repo is limited to gathering information for consumption by 
 #### 7) Wish lists / help wanted / gaps analysis
   - Use issue tracker to ask your fellow id geeks a question about an identifiers-based problem you're trying to solve
 
-If a single source of the above information already exists somewhere, that would be welcome news indeed! If you know of such an effort, Skype me at mcmurry.julie to let me know. Otherwise, let's just get it done.
+If a single source of the above information already exists somewhere, that would be welcome news indeed! If you know of such an effort, propose a change to this document or Skype me at mcmurry.julie to let me know. Otherwise, let's just get it done.
 
 The "identifiers/initiatives" github repo is one of the simplest approaches that could possibly work for information-gathering because the following features are baked into GitHub for free:
   - "drive-by" contributions by anyone withoug even leaving the browser
