@@ -1,7 +1,7 @@
 # Initiatives
 In the life sciences there are many dozens of thought leaders actively working to improve the identifiers landscape; however, it is difficult to stay abreast of the overlaps/complementarity. Not everyone can attend every meeting or every working group, nor should they need to. Let's face it; if you're an identifier geek, you probably became one out of sheer frustration with not being able to do something a lot more interesting -- like data integration. Although we can't magically stop duplicating effort, we can improve how we disseminate our collective products even if they conflict. All reasonable contributions of new content are welcome, provided it is done by someone who has at least skimmed the existing content.
 
-The purpose of this repo is limited to gathering information for consumption by a technical audience. That is admittedly narrow, but existing organizations doing the actual work / work products are better suited to hosting it. Specifically, this repo aims to house the following information:
+The purpose of this repo is limited to gathering information for consumption by a technical audience. That is admittedly narrow, but existing organizations doing the actual work / work products are those better suited to hosting it. Specifically, this repo aims to house the following information:
 
 #### 1) What are the (active) working groups trying to improve identifiers for the web
 #### 2) Which individuals are participating in them
