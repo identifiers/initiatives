@@ -1,4 +1,4 @@
-# Initiatives
+# Identifier Initiatives
 In the life sciences there are many dozens of thought leaders actively working to improve the identifiers landscape; however, it is difficult to stay abreast of the overlaps/complementarity. Not everyone can attend every meeting or every working group, nor should they need to. Let's face it; if you're an identifier geek, you probably became one out of sheer frustration with not being able to do something a lot more interesting -- like data integration. Although we can't magically stop duplicating effort, we can improve how we disseminate our collective products even if they conflict. All reasonable contributions of new content are welcome, provided it is done by someone who has at least skimmed the existing content.
 
 The purpose of this repo is limited to gathering information for consumption by a technical audience. That is admittedly narrow, but existing organizations doing the actual work / work products are those better suited to hosting it. Specifically, this repo aims to house the following information:
@@ -29,6 +29,11 @@ The "identifiers/initiatives" github repo is one of the simplest approaches that
   - user-driven notification settings that integrate with email
   - @mentions of specific team members or anyone on GitHub
   - issue tracker
-  - more transparent attribution for individuals
+  - more transparent attribution for individual contributors of content
 
-Using GitHub for even something so humble avoids heavyweight and boring database management. The content of this repo is primarily meant for human consumption by technical members of the groups doing the work. The organization "githumb.com/identifiers" is deliberately generic in order to foster broad participation. If we find that we gather so much information that it overwhelms even the identifier devotees, we could later explore some ways of summarizing it, or structuring it more meaningfully. To be useful, this repo's content should remain high level, with pointers elsewhere for details.
+Using GitHub for even something so humble avoids heavyweight and boring database management. The content of this repo is primarily meant for human consumption by technical members of the groups doing the work. The organization "githumb.com/identifiers" is deliberately generic in order to foster broad participation without getting coopted for a single cause. If we find that we gather so much information that it overwhelms even the identifier devotees, we could later explore some ways of summarizing it, or structuring it more meaningfully. To be useful, this repo's content should remain high level, with pointers elsewhere for details.
+
+What this repo is not:
+1) A place for code
+2) A place to house orphaned projects that don't fit anywhere
+3) A forum for debate
