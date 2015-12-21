@@ -1,12 +1,13 @@
 - BD2K
 - BioCaddie
+- CODATA : http://www.codata.org/
 - DataCite
 - Earthcube
 - ELIXIR / Corbel / Excelerate
 - Environmental Health Sciences Common Language Community
 - EZID
-- Force11-JDDCP
-- Force11-RRITS
+- Force11-JDDCP / DCIP
+- Force11-RRID-TS
 - GBIF
 - iPlant
 - iSamples RCN
