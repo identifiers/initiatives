@@ -13,6 +13,7 @@
 - iSamples RCN
 - MiniD
 - OBO Foundry
-- PrefixCommons
+- OpenAIRE
+- - PrefixCommons
 - RDA - Research Data Alliance
 - TDWG - Biodiversity Information Standards
