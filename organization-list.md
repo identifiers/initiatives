@@ -1,19 +1,19 @@
 - BD2K
 - BioCaddie
-- CODATA : http://www.codata.org/
-- DataCite
+- CODATA
+- [DataCite](https://www.datacite.org/)
 - Earthcube
-- ELIXIR / Corbel / Excelerate
+- [ELIXIR](https://www.elixir-europe.org/) / [Corbel](http://www.corbel-project.eu/home.html) / [Excelerate](https://www.elixir-europe.org/excelerate)
 - Environmental Health Sciences Common Language Community
 - EZID
-- Force11-JDDCP / DCIP
-- Force11-RRID-TS
+- Force11-JDDCP
+- Force11-RRITS
 - GBIF
 - iPlant
 - iSamples RCN
-- MiniD
+- [MiniD](http://minid.bd2k.org/)
 - OBO Foundry
 - OpenAIRE
-- - PrefixCommons
+- [PrefixCommons](https://github.com/prefixcommons)
 - RDA - Research Data Alliance
 - TDWG - Biodiversity Information Standards
