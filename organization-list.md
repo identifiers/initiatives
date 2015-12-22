@@ -11,6 +11,7 @@
 - GBIF
 - iPlant
 - iSamples RCN
+- [Lagotto.io](http://lagotto.io/)
 - MDC [Making Data Count](http://blog.datacite.org/announcing-data-level-metrics-in-datacite-labs/)
 - [MiniD](http://minid.bd2k.org/)
 - OBO Foundry
